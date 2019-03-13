@@ -3,6 +3,7 @@
 I was on a vacation the full midsem break (I also talked about it to Atishya Sir). I returned on 11 March, by then I had only done little bit of research part. Other than that I had a compulsory NLN movie screening on 12 March and an APL quiz too is coming up this week. As a result I could not do much work.
 
 I have completed the research part. The link is - https://drive.google.com/file/d/1q65c80w7PVyDJRDqTvU2eVVTZr6wMP7l/view?usp=sharing Sharing this just in case if there was an error during form submission.
+I have written a summary of each part at the top so it becomes easier for you to check you :)
 
 I tried to learn react in these 3 days, but realised that I won't be able to learn it and then make an webapp with it.
 I was only able to make basic HTML page showing rough UI/UX that too in plain HTML/CSS (no react).
